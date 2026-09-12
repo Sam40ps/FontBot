@@ -1,2 +1,2 @@
 # FontBot
-Repositório de um dicord bot que, no futuro, mudará as fontes das mensagens digitadas naquele canal para um usuário específico.
+Repositório de um bot do discord que, no futuro, mudará as fontes das mensagens digitadas naquele canal para um usuário específico. Enquanto em desenvolvimento, ele também terá outras funções extras, simples e legais como contar algumas piadas, elogiar e/ou até sugerir músicas! AVISO: Mudanças de grande porte podem ser feitas, podendo alterar toda a funcionalidade do bot. Está é só uma BETA em desnvolvimento.
